@@ -4,7 +4,7 @@
 Jest to wersja robocza !!!
 
 ## Kurs kreatywnego programowania z p5js
-
+Kreatywność jest nierozerwalnie związana z innowacyjnością. 
 Kurs jest przeznaczony **dla każdego**, kto chciałby się nauczyć podstaw programowania.
 
 Lekcje:
