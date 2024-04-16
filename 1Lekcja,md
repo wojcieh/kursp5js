@@ -1,0 +1,12 @@
+1. Rysowanie
+- gdzie zaczynamy
+[https://p5js.org](https://p5js.org)
+
+- funkcja setup() i draw();
+- pomocna dłoń pomocy;
+- rysowanie zaczynamy od textu;
+- gdzie jest, która współrzędna (magiczne zmienne MouseX i MouseY);
+- proste kształty;
+- jak komputer opisuje kolory;
+- wypełnienie i obramowanie;
+- wielbłędy i małebłędy, czyli coś mi się źle klikło
