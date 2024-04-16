@@ -4,7 +4,7 @@
 Jest to wersja robocza !!!
 
 ## Kurs kreatywnego programowania z p5js
-
+Kreatywność jest nierozerwalnie związana z innowacyjnością. 
 Kurs jest przeznaczony **dla każdego**, kto chciałby się nauczyć podstaw programowania.
 Co musisz umieć: bardzo przydatna będzie znajomość języka angielskiego umożliwająca, zrozumienie czytanego tekstu (zawsze można wspomóc się translatorem).
 **Po co?**
